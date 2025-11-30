@@ -160,20 +160,20 @@ closeBtn.addEventListener("click", toggleChatbot);
 
 const conversation = {
     "start": {
-        "bot": "Hello! I'm Prince's AI assistant. How can I help you today?",
+        "bot": "Hello! I'm JM's AI assistant. How can I help you today?",
         "options": ["Show me your work", "What are your skills?", "Tell me a fun fact", "How can I contact you?"]
     },
     "responses": {
         "Show me your work": {
-            "bot": "Of course! You can see some of Prince's featured projects in the <a href='#work'>Work</a> section. He's particularly proud of the Happy Smile 365 system.",
+            "bot": "Of course! You can see some of JM's featured projects in the <a href='#work'>Work</a> section. He's particularly proud of the Happy Smile 365 system.",
             "options": ["What are your skills?", "How can I contact you?", "Start Over"]
         },
         "What are your skills?": {
-            "bot": "Prince is a full-stack developer with skills in React, Node.js, Firebase, and more. For a detailed list, head over to the <a href='#skills'>Skills</a> section.",
+            "bot": "JM is a Web and App Developer with skills in HTML, CSS, JavaScript, PHP, Java, Firebase, MySQL and more. For a detailed list, head over to the <a href='#skills'>Skills</a> section.",
             "options": ["Show me your work", "How can I contact you?", "Start Over"]
         },
         "Tell me a fun fact": {
-            "bot": "Fun fact: Besides coding, Prince loves brewing the perfect cup of coffee. It's his other favorite kind of 'Java'!",
+            "bot": "Fun fact: Aside from coding, he loves enjoying a cup of matcha. It keeps him energized while he codes!",
             "options": ["Show me your work", "What are your skills?", "Start Over"]
         },
         "How can I contact you?": {
