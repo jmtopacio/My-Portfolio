@@ -167,7 +167,10 @@ body.dark-mode .mission-vision .info p { color: var(--dm-text-muted); }
 .skills .info { display: flex; align-items: center; justify-content: space-between; margin-bottom: 5px; }
 .skills .info span { font-size: 18px; font-weight: 500; display: flex; align-items: center; }
 .skills .info span i { margin-right: 10px; font-size: 22px; }
-.html-info i { color: #e45126; } .css-info i { color: #0c73b8; } .javascript-info i { color: #e3a324; }
+.html-info i { color: #e45126; } .css-info i { color: #0c73b8; } .javascript-info i { color: #e3a324; }  
+.java-info i { color: #b07219; }    
+.python-info i { color: #306998; }  
+.cpp-info i { color: #00599C; }     
 .react-js-info i, .react-native-info i { color: #61dafb; }
 .tailwind-info i { color: #06B6D4; }
 .typescript-info i { color: #3178C6; }
